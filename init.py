@@ -5,7 +5,7 @@ def get_db_connection():
         host='localhost',
         user='root',
         password='',  
-        database='tubes_alpro',
+        database='rumah_sakit',
         port=3306
     )
     if connection.is_connected():
