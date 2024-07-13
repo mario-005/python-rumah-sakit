@@ -15,7 +15,7 @@ def get_db_connection():
         user='root',
         password='',  
         database='tubes_alpro',
-        port=3308
+        port=3306
     )
     if connection.is_connected():
         return connection
