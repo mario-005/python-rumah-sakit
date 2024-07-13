@@ -1,13 +1,3 @@
-# Kelas: SI-47-07
-# Kelompok: 22
-# Anggota Kelompok:
-# 1. Hafidz Nur Hilmi (102022330288)
-# 2. Berkah Aryo Bima Sakti (102022300237)
-# 3. Muhammad Fizry Alifta (102022300222)
-# 4. Benediktus Mario Laksono (102022300270)
-# 5. Faiz Dhya Muhammad Rahmantyo (102022300144)
-
-
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
