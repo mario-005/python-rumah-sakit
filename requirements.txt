@@ -1,12 +1,5 @@
 streamlit
-requests
-mysql.connector
 pandas
-matplotlib.pyplot
-time
-navigation
-init
-streamlit_option_menu
-streamlit.runtime.scriptrunner 
- streamlit.source_util
-streamlit_lottie
+matplotlib
+streamlit-option-menu
+mysql-connector-python
